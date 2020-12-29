@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: DErmoshin
+Build-Jdk: 11.0.7
+Main-Class: ru.bmstu.SocketWindowWordCount
+
